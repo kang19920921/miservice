@@ -1,10 +1,10 @@
-package com.lukang.micservice;
+package com.lukang.clound_api_commons;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;
 
 @SpringBootTest
-class MicserviceApplicationTests {
+class CloundApiCommonsApplicationTests {
 
     @Test
     void contextLoads() {
